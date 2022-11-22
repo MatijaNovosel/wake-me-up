@@ -131,3 +131,4 @@ app.*.symbols
 
 # Other
 .env
+keys.xml
