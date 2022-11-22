@@ -1,6 +1,6 @@
 <h1 align=center>Wake me up</h1>
 <p align=center>
-  A mobile app that helps you keep track of your destination.
+  A mobile app that helps you keep track of your travel destination.
 </p>
 
 ## 🔨 Built With
