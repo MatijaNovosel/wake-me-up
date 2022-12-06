@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/36193643/206033425-a03f0279-af85-47a5-9b33-6565178011b5.png" />
+</div>
+
 <h1 align=center>Wake me up</h1>
 <p align=center>
   A mobile app that helps you keep track of your travel destination.
